@@ -1,0 +1,2 @@
+c:\users\zhangqics\documents\visual studio 2013\Projects\3Dcar\3Dcar\3DcarContent\obj\x86\Debug\3DcarContent.contentprojResolveAssemblyReference.cache
+C:\Users\zhangqics\Documents\Visual Studio 2013\Projects\3Dcarkinect\3Dcar\3DcarContent\obj\x86\Debug\3DcarContent.contentprojResolveAssemblyReference.cache
